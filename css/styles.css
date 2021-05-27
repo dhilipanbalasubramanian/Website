@@ -3,7 +3,7 @@ body {
 }
 
 img{
-  background-radius:100%;
+  border-radius:100%;
 }
 hr {
   border-style: none;
