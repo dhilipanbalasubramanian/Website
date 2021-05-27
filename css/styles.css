@@ -2,6 +2,9 @@ body {
   background-color: #fcf1f1;
 }
 
+img{
+  background-radius:100%;
+}
 hr {
   border-style: none;
   border-top-style: dotted;
